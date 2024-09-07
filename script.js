@@ -88,9 +88,9 @@ function startGame() {
     //*----------------------------- Path to your background images
     const ganesh = {
         x: canvas.width / 2 - 40,
-        y: canvas.height - 100,
-        width: 80,
-        height: 80,
+        y: canvas.height - 150,
+        width: 120,
+        height: 120,
         dx: 0,
         speed: 10,
         image: new Image(),
